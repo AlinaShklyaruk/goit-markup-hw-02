@@ -18,6 +18,9 @@ body {
   cursor: pointer;
 }
 
+.header {
+  border-bottom: 1px solid #ececec;
+}
 .visually-hidden {
   position: absolute;
   white-space: nowrap;
